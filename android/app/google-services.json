@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848061712303",
+    "project_id": "notify-8f611",
+    "storage_bucket": "notify-8f611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848061712303:android:2cd837dd86cd8cd60d915a",
+        "android_client_info": {
+          "package_name": "com.example.firenotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKO-1UkgXavAKGte3ryUNuINSu_B0EoSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
